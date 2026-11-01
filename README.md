@@ -74,9 +74,24 @@ Everything profiled for seoapi-com is published on APIs.io rather than in this r
 
 ### APIs (1)
 
-- SEO APIs — SEO APIs provides a suite of free, publicly accessible APIs for bot detection, HTTP status validation, CLS measurement, and disavow file checks.
+- [SEO APIs](https://apis.io/apis/seoapi-com/seo-apis/) — SEO APIs provides a suite of free, publicly accessible APIs for bot detection, HTTP status validation, CLS measurement, and disavow file checks.
 
-_These APIs get their own pages on APIs.io at the next catalog build, and this README is re-rendered with links when they do._
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (2)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Seoapi Com Authentication](https://apis.io/security/seoapi-com/seoapi-com-authentication/)
+- [Seoapi Com Domain Security](https://apis.io/security/seoapi-com/seoapi-com-domain-security/)
+
+#### OAuth scopes (1)
+
+The permissions the API asks for.
+
+- [Seoapi Com Scopes](https://apis.io/scopes/seoapi-com/seoapi-com-scopes/)
 
 ## Where to find this API
 
@@ -86,7 +101,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/seoapi-com/](https://apis.io/providers/seoapi-com/).
+**Kin Score 5.8** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 57.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 0.0 |
+
+**Agent readiness 3.1** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 15.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/seoapi-com/](https://apis.io/providers/seoapi-com/).
 
 ## How this profile is made
 
